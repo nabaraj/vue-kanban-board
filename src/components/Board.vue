@@ -143,6 +143,10 @@ const onDrop = (event: DragEvent, status: StatusType) => {
     @apply border border-[#ddd] rounded-md shadow-md;
 }
 
+.taskContainer {
+    flex: 1;
+}
+
 .boardColumn:hover {
     @apply shadow-xl -translate-y-1;
 }
