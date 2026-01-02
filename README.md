@@ -5,6 +5,12 @@ The project demonstrates clean state management, native drag-and-drop handling, 
 
 This was built as a **machine-coding / interview exercise** with a focus on correctness, clarity, and maintainability.
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="./public/screenshots/kanban-board.png" alt="Kanban Board Screenshot" width="800" />
+</p>
+
 ---
 
 ## 🔍 Demo Overview
