@@ -152,7 +152,7 @@ const onDrop = (event: DragEvent, status: StatusType) => {
 }
 
 .drop-active {
-    border: 2px dashed #333;
+    /* border: 2px dashed #333; */
     background-color: rgba(0, 0, 0, 0.03);
 }
 
