@@ -42,7 +42,7 @@ const submitForm = () => {
                         <label for="title" class="block mb-2.5 text-sm font-medium text-heading">Task Name</label>
                         <input type="text" id="title" v-model="title"
                             class="bg-neutral-secondary-medium border border-default-medium text-heading text-sm rounded-[12px] focus:ring-brand focus:border-brand block w-full px-3 py-2.5 shadow-xs placeholder:text-body"
-                            placeholder="name@flowbite.com">
+                            placeholder="Enter job title">
                     </div>
                     <div class="mb-5">
                         <label for="description" class="block mb-2.5 text-sm font-medium text-heading">Task
